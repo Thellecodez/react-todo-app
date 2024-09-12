@@ -25,4 +25,16 @@ To get started with the project, follow these steps:
 4. Run the application:
    ```bash
    npm run dev
+
    
+Nodejs official website: 
+```
+https://nodejs.org/en
+```
+Vite official website: 
+```
+https://vitejs.dev/
+```
+ReactJs official website: 
+```
+https://react.dev/
